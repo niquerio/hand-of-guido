@@ -1,0 +1,2 @@
+@image{snippit-1}
+@c eof
